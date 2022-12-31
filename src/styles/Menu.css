@@ -1,0 +1,15 @@
+
+
+.hover:hover{
+   background-color: lightskyblue;
+}
+.h1{
+    color: blue;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.p {
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+}
